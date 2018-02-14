@@ -209,6 +209,13 @@ mimic = {
     "target":{}
     }
 
+read = {
+    "readPoint":{},
+    "readMember":{},
+    "readTime":{},
+    "ROM":{}
+}
+
 settings = {
     "simiSimi":{}
     }
